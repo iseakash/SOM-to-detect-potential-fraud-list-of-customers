@@ -1,0 +1,2 @@
+# SOM-to-detect-potential-fraud-list-of-customers
+Imagine yourself as a deep learning scientist working for a bank and you are given a data set that contains the information of customers of this bank applying for an advance Credit card. You have to detect the potential fraud list of customers who have actually cheated and also predict the probability that each customer cheated. (Self Organised Map) Using both Supervised and unsupervised deep Learning algorithms.
